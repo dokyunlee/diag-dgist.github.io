@@ -1,0 +1,28 @@
+# Site settings
+title: DIAG
+email: diag.dgist@gmail.com
+url: https://diag.kr
+description: "In the DGIST Intelligence Augmentation Group (DIAG), we do research on the intersection of <u>Human-Computer Interaction</u> and <u>Artificial Intelligence</u>. Our focus lies in the study and development of <u>hybrid intelligence systems</u>, which integrate the power of both human and machine intelligence.
+Our objective is to address complex computational and social problems through the <u>design of novel and effective human-AI interactions</u> for these systems."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#020006'
+  primary-body: '#ECF8FE'
+  links: '#0574A7'
+
+# Footer settings
+footer: diag.kr
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+#social:
+#  - title: twitter
+#    url: https://twitter.com/jeancrowdvision
+#  - title: facebook
+#    url:
+#  - title: github
+#    url:
+
+# Build settings
+markdown: kramdown
+permalink: pretty
